@@ -54,16 +54,17 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "''jani No tei click korben :''( accha korsen jokhon abar nahoy Red colour e click koren",
+    "ar koto Red colour e click korbennnnn?🥺",
+    "Areh choleeennnnn....",
+    "Meaw meawwwww",
+    "You're a Pookie. let's go and have some tea!!🥹",
+    "ektu por theke kintu ar na korte parben na",
+    "bolen toh kivabe?",
+    "Hehe apni nijei trap e pore jaben... 👀",
+    "So Trap e porar ageei raji hoye jan...",
+    "please let's goooo🥹",
+    "Aab na maat kehena bura man jaungaa🥺"
 ];
 
 let messageIndex = 0;
